@@ -89,7 +89,11 @@ int main(){
              scanf("%d",&p);
              ret=pin(p);
              if(ret==4){
-                 
+                 printf("Transection 1: ");
+                 printf("Transection 2: ");
+                 printf("Transection 3: ");
+                 printf("Transection 4: ");
+                 printf("Transection 5: ");
              }
              break;
              
@@ -115,7 +119,7 @@ int main(){
          break;
          
          case 3:
-                     //pin gerate 
+                     //pin generate 
         pingenerate();
          break;
          
