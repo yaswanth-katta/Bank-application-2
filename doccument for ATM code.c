@@ -32,6 +32,7 @@ NOTE: if you want run the any type of transection, it must be ask your secrete
 
 ~ Withdrawl
    -Enter how much money do you want withdrawl
+    NOTE:one transection is gave only 40000 rupees
    -if you are giving above information is correct then 
     it will give you money from
     your saving account or current account,and it will display how much balance
@@ -46,7 +47,9 @@ NOTE: if you want run the any type of transection, it must be ask your secrete
        (no code here)
 
 ~ Credit
-    -Enter the amount, how much you have to credit
+    -Enter the amount, how much you have to creditt 
+     (IF the amount is more than 40000, it will take the first 40000 after that it will take the 
+        remianing amount..That means its take the two or more than transections)
     -If transection is succesfully completed then it show you message
     -Other wise it will inform you, that transection was failed
 
